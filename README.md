@@ -3,7 +3,7 @@ In this dataset we have to predict the final prices of the houses from features 
 
 Introduction
 
-In this notebook, we delve into predicting California house prices using linear regression. We will explore the dataset, visualize key features, and build a model to forecast housing prices based on various attributes. The visualizations will help in understanding the data distribution and the relationships between features, ultimately aiming to provide insights into the factors influencing housing prices in California.
+In this we delve into predicting California house prices using linear regression. We will explore the dataset, visualize key features, and build a model to forecast housing prices based on various attributes. The visualizations will help in understanding the data distribution and the relationships between features, ultimately aiming to provide insights into the factors influencing housing prices in California.
 
 Real Estate Price Prediction: Process We Followed
 Below is the process we followed for predicting real estate prices using linear regression, aimed at helping make informed decisions in the real estate market analysis:
